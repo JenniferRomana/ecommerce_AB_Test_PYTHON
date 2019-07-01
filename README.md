@@ -30,6 +30,7 @@ import pandas as pd<br>
 import numpy as np<br>
 import random<br>
 import matplotlib.pyplot as plt<br>
+import statsmodels.api as sm<br>
 
 
 ## Conclusions
